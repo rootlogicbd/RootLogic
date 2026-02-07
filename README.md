@@ -1,10 +1,10 @@
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+<img src="![ROOTLOGIC](https://raw.githubusercontent.com/USERNAME/rootlogic-assets/main/rootlogic_brand_intro.gif)
+">
+<p align="center"><img src="![ROOTLOGIC](https://raw.githubusercontent.com/USERNAME/rootlogic-assets/main/rootlogic_brand_intro.gif)
+" width="100%" height="auto"/></p>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/USERNAME/rootlogic-assets/main/rootlogic_brand_intro.gif
-  ">
   <img src="" alt="Title"></img>
   </a>
 </div>
