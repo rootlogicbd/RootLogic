@@ -1,5 +1,5 @@
 <div>
-  <img src="https://raw.githubusercontent.com/USERNAME/rootlogic-assets/main/rootlogic_brand_intro.gif" width="100%">
+  <img src="https://github.com/rootlogicbd/rootlogic-assets/blob/main/rootlogic_brand_intro.gif" width="100%">
 </div>
 
 
