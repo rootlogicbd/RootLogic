@@ -1,6 +1,6 @@
 <!-- ================= ROOTLOGIC BRAND BANNER ================= -->
 <p align="center">
-  <img src="https://github.com/rootlogicbd/rootlogic-assets/blob/main/rootlogic_brand_intro.gif" width="100%" alt="ROOTLOGIC Brand Intro"/>
+  <img src="https://github.com/rootlogicbd/rootlogic-assets/blob/main/last.gif" width="100%" alt="ROOTLOGIC Brand Intro"/>
 </p>
 
 <!-- ================= HEADER ================= -->
