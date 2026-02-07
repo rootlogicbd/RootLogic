@@ -1,14 +1,5 @@
 
-<img src="![ROOTLOGIC](https://raw.githubusercontent.com/USERNAME/rootlogic-assets/main/rootlogic_brand_intro.gif)
-">
-<p align="center"><img src="![ROOTLOGIC](https://raw.githubusercontent.com/USERNAME/rootlogic-assets/main/rootlogic_brand_intro.gif)
-" width="100%" height="auto"/></p>
-
-<div align="center">
-  <img src="" alt="Title"></img>
-  </a>
-</div>
-
+![ROOTLOGIC](https://raw.githubusercontent.com/USERNAME/rootlogic-assets/main/rootlogic_brand_intro.gif)
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
